@@ -1,6 +1,6 @@
 //全てのToDoと作業中ToDoと完了済みToDoを格納しておく配列を作成する
 const toDoListAll = [];
-let selectedList = "";
+let selectedList = "all";
 var divToDoList = document.getElementById("toDoList");
 var radioButtons = document.getElementById("radioButtons");
 
